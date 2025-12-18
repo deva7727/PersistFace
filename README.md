@@ -1,4 +1,4 @@
-# Face Recognition (local / IP camera)
+# Face Recognition (local / IP camera) set
 
 ![Demo](video.gif)
 

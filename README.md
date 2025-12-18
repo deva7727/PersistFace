@@ -6,7 +6,7 @@ This repository provides a small, practical pipeline to capture faces, train a s
 
 Repository: https://github.com/deva7727
 
-## What is in this repos
+## What is in this repo
 - `src/face_taker.py` — capture labeled face images from a local or IP camera (with optional augmentation).
 - `src/face_trainer.py` — train the LBPH recognizer and write `trainer.yml`.
 - `src/face_recognizer.py` — real-time detection, recognition, IoU+Kalman tracking, and simple appearance re-ID.

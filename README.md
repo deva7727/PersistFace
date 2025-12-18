@@ -81,7 +81,7 @@ After change, restart `python src/face_recognizer.py` and re-check.
 
 ---
 
-## File locations & important variables
+## File locations & important variables77
 
 - Images collected by `face_taker.py` → `images/<name>/...`
 - Trained model → `trainer.yml` (check `settings/PATHS['trainer_file']`)
